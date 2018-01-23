@@ -1,7 +1,9 @@
 #  GoogleMapReactNative
 
 ## Install
+### Install MapView
 https://github.com/react-community/react-native-maps/blob/master/docs/installation.md
+### Install MapViewDirections
 ```
 yarn add react-native-maps-directions
 ```
