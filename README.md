@@ -1,4 +1,16 @@
 #  GoogleMapReactNative
+
+## Install
+https://github.com/react-community/react-native-maps/blob/master/docs/installation.md
+```
+yarn add react-native-maps-directions
+```
+
+##Demo
+
+<img src="https://github.com/dinhtho/GoogleMapReactNative/blob/master/image.png" width="500"/>
+
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
